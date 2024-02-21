@@ -37,10 +37,32 @@
   font-weight: bold;
 }
 
+.shoppingCart{
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+
+.cartBtn{
+  margin-right: 7px;
+}
+
 .mainPic{
   width: 100%;
 }
 
-#learnLink{
+.adLink a{
   color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar .adLink{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+#navLink{
+  text-decoration: underline;
 }
