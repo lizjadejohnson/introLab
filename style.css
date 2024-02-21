@@ -1,0 +1,50 @@
+.adContainer{
+  border: solid blue;
+  background-color: rgb(185, 208, 186);
+  height: 8vh;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar{
+  /* border: solid blue; */
+  background-color: white;
+  height: 8vh;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.leftArrow{
+  /* border: solid red; */
+  font-weight: bold;
+  background-color: rgb(185, 208, 186);
+}
+
+.rightArrow{
+  /* border: solid red; */
+  font-weight: bold;
+  background-color: rgb(185, 208, 186);
+}
+
+
+.adTxt{
+  /* border: solid orange; */
+  font-weight: bold;
+}
+
+
+#learnLink{
+  color: black;
+}
+
+.mainPic{
+  width: 100%;
+}
