@@ -1,5 +1,5 @@
 .adContainer{
-  border: solid blue;
+  /* border: solid blue; */
   background-color: rgb(185, 208, 186);
   height: 8vh;
   padding: 5px;
@@ -26,12 +26,14 @@
   /* border: solid red; */
   font-weight: bold;
   background-color: rgb(185, 208, 186);
+  border: none;
 }
 
 .rightArrow{
   /* border: solid red; */
   font-weight: bold;
   background-color: rgb(185, 208, 186);
+  border: none;
 }
 
 
@@ -40,11 +42,10 @@
   font-weight: bold;
 }
 
+.mainPic{
+  width: 100%;
+}
 
 #learnLink{
   color: black;
-}
-
-.mainPic{
-  width: 100%;
 }
