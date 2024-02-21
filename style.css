@@ -52,7 +52,7 @@
 }
 
 .adLink a{
-  color: black;
+  color: #474747;
   text-decoration: none;
   font-weight: bold;
 }
@@ -65,4 +65,6 @@
 
 #navLink{
   text-decoration: underline;
+  font-weight:lighter;
+  color: black;
 }
